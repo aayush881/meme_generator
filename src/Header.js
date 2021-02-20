@@ -16,4 +16,7 @@ git commit -m "message"
 first time==> git remote add origin URL
 git push -u origin master
 
+git pull
+git push  origin master
+
 */
